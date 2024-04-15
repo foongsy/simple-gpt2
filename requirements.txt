@@ -1,0 +1,5 @@
+hanziconv
+ipykernel
+pip-chill
+simpletransformers
+torch
