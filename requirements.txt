@@ -1,5 +1,10 @@
-hanziconv
+datasets
+iprogress
 ipykernel
+ipywidgets
+matplotlib
 pip-chill
-simpletransformers
+tiktoken
 torch
+transformers
+wandb
